@@ -1,0 +1,5 @@
+*.git
+*.vs
+learn-cpp/
+x64/
+*learn-cpp.vcxproj.user
